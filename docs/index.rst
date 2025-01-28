@@ -10,10 +10,9 @@ Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 documentation for details.
 
-.. automodule:: ci_course.functionality
-   :members:
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+.. automodule:: ci_course.functionality
+   :members:
